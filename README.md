@@ -1,4 +1,4 @@
-# Vertical Resolution on extreme event attribution and climate projections
+# Vertical resolution, extreme event attribution and climate projections
 
 This directory contains the scripts to make the figures for Walker et al. 2021, "Increasing vertical resolution and the implications on extreme event attribution and climate projections", submitted to Quarterly Journal of the Royal Meteorological Society on 23-07-2021.
 
