@@ -13,16 +13,16 @@ https://www.happimip.org/happi_data/
 
 Script names correspond to the figure numbers in the paper. 
 
-Fig1_era5_figs.py 
+Fig1_era5_figs.py \
   DJF PV and zonal wind anomalies, 2m daily temperature from 1979-2018, daily total precipitation from 1979-2018, and 10m windspeeds from 1979-2018 for the southern UK.
   
-Fig3_zonal_temp_vertical_profile.py
+Fig3_zonal_temp_vertical_profile.py\
   DJF Zonal mean vertical temperature profile. Difference between 3Deg and Present experiment and the difference from the Control.
 
-Fig4_zonal_winds_vertical_profile.py
+Fig4_zonal_winds_vertical_profile.py\
   DJF Zonal mean zonal winds vertical profile. Difference between 3Deg and Present experiment and the difference from the Control.
   
-Fig5_zonal_winds_maps.py
+Fig5_zonal_winds_maps.py\
   DJF Zonal mean zonal winds over North Atlantic at 10, 500 and 850hPa. Difference between 3Deg and Present experiment and the difference from the Control.
 
 Fig6_windshear_maps.py
