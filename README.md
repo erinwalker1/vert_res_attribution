@@ -14,7 +14,9 @@ https://www.climateprediction.net/
 and:
 https://www.happimip.org/happi_data/
 
-## Script name and description
+***
+
+## Script names and description
 
 Script names correspond to the figure numbers in the paper. 
 
